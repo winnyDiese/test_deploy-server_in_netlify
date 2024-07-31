@@ -6,7 +6,7 @@
   },
   "name": "deploi-api-on-netlify",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "netlify-lambda serve src",
